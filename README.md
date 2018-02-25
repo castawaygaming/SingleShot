@@ -1,4 +1,4 @@
-<b>Single-Shooting</b>
+<b><font size="+4">Single-Shooting</font></b>
 
 
 This resource sets all automatic weapons to semi-automatic.
