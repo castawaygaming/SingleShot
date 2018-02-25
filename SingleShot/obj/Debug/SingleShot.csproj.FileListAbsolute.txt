@@ -1,0 +1,6 @@
+C:\Users\nickr\Documents\Programming\Projects\SingleShot\SingleShot\bin\Debug\SingleShot.dll
+C:\Users\nickr\Documents\Programming\Projects\SingleShot\SingleShot\bin\Debug\SingleShot.pdb
+C:\Users\nickr\Documents\Programming\Projects\SingleShot\SingleShot\bin\Debug\CitizenFX.Core.dll
+C:\Users\nickr\Documents\Programming\Projects\SingleShot\SingleShot\obj\Debug\SingleShot.csprojResolveAssemblyReference.cache
+C:\Users\nickr\Documents\Programming\Projects\SingleShot\SingleShot\obj\Debug\SingleShot.dll
+C:\Users\nickr\Documents\Programming\Projects\SingleShot\SingleShot\obj\Debug\SingleShot.pdb
